@@ -24,16 +24,31 @@
       </nav>
     </header>
     <main>
-      {{{ body }}}
-    </main>
-    <footer>
+
+
+<section>
+  <h2>Create New Post</h2>
+
+  <form class="new-post-form">
+    <div>
+      <label for="post-title">Title</label>
+      <input type="text" id="post-title" name="post-title" />
+    </div>
+    <div>
+      <label for="post-url">Link</label>
+      <input id="post-url" name="post-url" />
+    </div>
+    <button type="submit" class="btn">Create</button>
+  </form>
+</section>
+
+{{{ body }}}
+</main>
+
+<footer>
       Tech Blog MVC &copy; 2021
     </footer>
   </div>
-  
-  {{#if loggedIn}}
-  <script src="/javascript/logout.js"></script>
-  {{/if}}
-</body>
 
-</html>
+<script src="/javascript/add-post.js"></script>
+</body>
