@@ -183,6 +183,9 @@ main {
 .edit-post-form {
   margin-bottom: 5%;
 }
+::marker {
+  text-decoration: none;
+}
 
 footer {
 border-top: 8px solid #041222;
