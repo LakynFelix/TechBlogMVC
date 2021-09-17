@@ -25,8 +25,8 @@ To start the program please run:
 npm start
 
 ## GitHub Profile: https://github.com/LakynFelix   
-## GitHub Repo:  https://github.com/LakynFelix/
-## Herouku: https://github.com/LakynFelix/TechBlogMVC
+## GitHub Repo: https://github.com/LakynFelix/TechBlogMVC
+## Herouku: https://lakynstechblogmvc.herokuapp.com/ 
 ## Email: Lakynmphotography@hotmail.com 
 
 ## Preview of project
