@@ -1,5 +1,5 @@
 
-##  TECH BLOG MVC
+# TECH BLOG MVC
 
 # Table of Contents 
 * [Description](#descriptionofproject)  
@@ -32,7 +32,6 @@ npm start
 ## Preview of project
 ![image](https://user-images.githubusercontent.com/84104126/133703745-63400c63-960f-4bcd-be5f-9f52afde73f8.png)
 
-
 ![image](https://user-images.githubusercontent.com/84104126/133703722-91b6330e-c053-4eae-a653-ba75138a8a8e.png)
 
 ![image](https://user-images.githubusercontent.com/84104126/133703702-5a48d2fa-3d0a-48e7-94cd-dd1b10deb96f.png)
@@ -41,14 +40,10 @@ npm start
 
 
 # License:  
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
  # Collaborators:
  NONE   
-
-
-# License:  
-[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
   
  # Collaborators:
  NONE   
